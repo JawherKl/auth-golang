@@ -35,7 +35,7 @@ This project demonstrates the implementation of authentication and authorization
     ```
 ## Setting up server directories/packages
 For the organization of our server, we will categorize the directories into the following sections:
-[tree-project](tree-project.png)
+![tree-project](tree-project.png)
 
 1. routes - This directory will contain the definitions of the different routes for the server, which map URLs to specific functions.
 2. controllers - This directory will hold the functions that will handle the incoming requests and interact with the models and other components.
