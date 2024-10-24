@@ -48,8 +48,10 @@ These directories will also serve as packages.
 ## API Endpoints
 
 - **POST /login**: Authenticate a user and generate a JWT token.
-- **GET /profile**: Protected route that returns user profile information (requires valid JWT).
-- **POST /admin**: Protected route that can be accessed only by Admin users.
+- **POST /signup**: Create a user and inserted to database.
+- **GET /home**: Protected route that returns home profile information (requires valid JWT).
+- **GET /premium**: Protected route that returns premium information (requires valid JWT).
+- **GET /logout**: Protected route that can be logout session user.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
