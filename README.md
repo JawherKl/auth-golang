@@ -1,6 +1,6 @@
 # Golang Authentication and Authorization Project
 
-This project demonstrates the implementation of authentication and authorization in a Golang application, following the guide from [Tanmay Vaish's tutorial](https://tanmay-vaish.hashnode.dev/how-to-implement-authentication-and-authorization-in-golang).
+This project demonstrates the implementation of authentication and authorization in a Golang application.
 
 ## Features
 - **User Authentication**: Secure login system using JWT (JSON Web Tokens).
@@ -16,8 +16,8 @@ This project demonstrates the implementation of authentication and authorization
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/JawherKl/auth-golang
+    cd auth-golang
     ```
 
 2. Install dependencies:
@@ -53,7 +53,4 @@ These directories will also serve as packages.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-
-## References
-- Tutorial: [How to Implement Authentication and Authorization in Golang](https://tanmay-vaish.hashnode.dev/how-to-implement-authentication-and-authorization-in-golang)
 
