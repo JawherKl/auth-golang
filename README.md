@@ -48,7 +48,6 @@ For the organization of our server, we will categorize the directories into the 
 These directories will also serve as packages.
 
 ## API Endpoints
-
 - **POST /login**: Authenticate a user and generate a JWT token.
 - **POST /signup**: Create a user and inserted to database.
 - **GET /home**: Protected route that returns home profile information (requires valid JWT).
