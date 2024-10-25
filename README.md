@@ -33,8 +33,10 @@ This project demonstrates the implementation of authentication and authorization
     ```bash
     go run main.go
     ```
+
 ## Setting up server directories/packages
 For the organization of our server, we will categorize the directories into the following sections:
+
 ![tree-project](tree-project.png)
 
 1. routes - This directory will contain the definitions of the different routes for the server, which map URLs to specific functions.
